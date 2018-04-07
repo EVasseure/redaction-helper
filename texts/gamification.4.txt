@@ -1,0 +1,298 @@
+A User-Centered Theoretical Framework for Meaningful Gamification
+Scott Nicholson, School of Information Studies, Syracuse University
+scott@scottnicholson.com http://becauseplaymatters.com
+Abstract: Gamification is the "use of game design elements in non-game contexts"
+(Deterding et al, 2011, p.1). A frequently used model for gamification is to equate an
+activity in the non-game context with points and have external rewards for reaching
+specified point thresholds. One significant problem with this model of gamification is that
+it can reduce the internal motivation that the user has for the activity, as it replaces
+internal motivation with external motivation. If, however, the game design elements can
+be made meaningful to the user through information, then internal motivation can be
+improved as there is less need to emphasize external rewards. This paper introduces the
+concept of meaningful gamification through a user-centered exploration of theories
+behind organismic integration theory, situational relevance, situated motivational
+affordance, universal design for learning, and player-generated content.
+A Brief Introduction to Gamification
+One definition of gamification is "the use of game design elements in non-game contexts" (Deterding et
+al, 2011, p.1). A common implementation of gamification is to take the scoring elements of video games,
+such as points, levels, and achievements, and apply them to a work or educational context. While the
+term is relatively new, the concept has been around for some time through loyalty systems like frequent
+flyer miles, green stamps, and library summer reading programs. These gamification programs can
+increase the use of a service and change behavior, as users work toward meeting these goals to reach
+external rewards (Zichermann & Cunningham, 2011, p. 27).
+Gamification has met with significant criticism by those who study games. One problem is with the name.
+By putting the term "game" first, it implies that the entire activity will become an engaging experience,
+when, in reality, gamification typically uses only the least interesting part of a game - the scoring system.
+The term "pointsification" has been suggested as a label for gamification systems that add nothing more
+than a scoring system to a non-game activity (Robertson, 2010). One definition of games is "a form of
+play with goals and structure" (Maroney, 2001); the points-based gamification focuses on the goals and
+leaves the play behind. Ian Bogost suggests the term be changed to "exploitationware," as that is a better
+description of what is really going on (2011). The underlying message of these criticisms of gamification is
+that there are more effective ways than a scoring system to engage users.
+Another concern is that organizations getting involved with gamification are not aware of the potential
+long-term negative impact of gamification. Underlying the concept of gamification is motivation. People
+can be driven to do something because of internal or external motivation. A meta-analysis by Deci,
+Koestner, and Ryan of 128 studies that examined motivation in educational settings found that almost all
+forms of rewards (except for non-controlling verbal rewards) reduced internal motivation (2001). The
+implication of this is that once gamification is used to provide external motivation, the user's internal
+motivation decreases. If the organization starts using gamification based upon external rewards and then
+decides to stop the rewards program, that organization will be worse off than when it started as users will
+be less likely to return to the behavior without the external reward (Deci, Koestner & Ryan, 2001). In the
+book Gamification by Design, the authors claim that this belief in internal motivation over extrinsic
+rewards is unfounded, and gamification can be used for organizations to control the behavior of users by
+replacing those internal motivations with extrinsic rewards. They do admit, though, that "once you start
+giving someone a reward, you have to keep her in that reward loop forever" (Zichermann & Cunningham,
+2011, p. 27). 
+Preprint of: Nicholson, S. (2012, June). A User-Centered Theoretical Framework for Meaningful Gamification.
+Paper Presented at Games+Learning+Society 8.0, Madison, WI.
+Further exploration of the meta-analysis of motivational literature in education found that if the task was
+already uninteresting, reward systems did not reduce internal motivation, as there was little internal
+motivation to start with. The authors concluded that "the issue is how to facilitate people's understanding
+the importance of the activity to themselves and thus internalizing its regulation so they will be selfmotivated
+to perform it" (2001, p. 15). The goal of this paper is to explore theories useful in user-centered
+gamification that is meaningful to the user and therefore does not depend upon external rewards.
+Organismic Integration Theory
+Organismic Integration Theory (OIT) is a sub-theory of self-determination theory out of the field of
+Education created by Deci and Ryan (2004). Self-determination theory is focused on what drives an
+individual to make choices without external influence. OIT explores how different types of external
+motivations can be integrated with the underlying activity into someone’s own sense of self. Rather than
+state that motivations are either internalized or not, this theory presents a continuum based upon how
+much external control is integrated along with the desire to perform the activity. If there is heavy external
+control provided with a reward, then aspects of that external control will be internalized as well, while if
+there is less external control that goes along with the adaptation of an activity, then the activity will be
+more self-regulated.
+External rewards unrelated to the activity are the least likely to be integrated, as the perception is that
+someone else is controlling the individual’s behavior. Rewards based upon gaining or losing status that
+tap into the ego create an introjected regulation of behavior, and while this can be intrinsically accepted,
+the controlling aspect of these rewards causes the loss of internal motivation. Allowing users to selfidentify
+with goals or groups that are meaningful is much more likely to produce autonomous, internalized
+behaviors, as the user is able to connect these goals to other values he or she already holds. A user who
+has fully integrated the activity along with his or her personal goals and needs is more likely to see the
+activity as positive than if there is external control integrated with the activity (Deci & Ryan, 2004).
+OIT speaks to the importance of creating a gamification system that is meaningful to the user, assuming
+that the goal of the system is to create long-term systemic change where the users feel positive about
+engaging in the non-game activity. On the other side, if too many external controls are integrated with the
+activity, the user can have negative feelings about engaging in the activity. To avoid negative feelings, the
+game-based elements of the activity need to be meaningful and rewarding without the need for external
+rewards. In order for these activities to be meaningful to a specific user, however, they have to be
+relevant to that user.
+Situational Relevance and Situated Motivational Affordance
+One of the key research areas in Library and Information Science has been about the concept of
+relevance as related to information retrieval. A user has an information need, and a relevant document is
+one that resolves some of that information need. The concept of relevance is important in determining the
+effectiveness of search tools and algorithms. Many research projects that have compared search tools
+looked at the same query posed to different systems, and then used judges to determine what was a
+"relevant" response to that query. This approach has been heavily critiqued, as there are many variables
+that affect if a user finds something relevant at that moment in his or her searching process. Schamber
+reviewed decades of research to find generalizable criteria that could be used to determine what is truly
+relevant to a query and came to the conclusion that the only way to know if something is relevant is to ask
+the user (1994). Two users with the same search query will have different information backgrounds, so
+that a document that is relevant for one user may not be relevant to another user.
+This concept of "situational relevance" is important when thinking about gamification. When someone
+else creates goals for a user, it is akin to an external judge deciding what is relevant to a query. Without
+involving the user, there is no way to know what goals are relevant to a user's background, interest, or
+needs. In a points-based gamification system, the goal of scoring points is less likely to be relevant to a
+user if the activity that the points measure is not relevant to that user. For example, in a hybrid
+automobile, the gamification systems revolve around conservation and the point system can reflect how
+much energy is being saved. If the concept of saving energy is relevant to a user, then a point system 
+Preprint of: Nicholson, S. (2012, June). A User-Centered Theoretical Framework for Meaningful Gamification.
+Paper Presented at Games+Learning+Society 8.0, Madison, WI.
+based upon that concept will also be relevant to that user. If the user is not internally concerned with
+saving energy, then a gamification system based upon saving energy will not be relevant to that user.
+There may be other elements of the driving experience that are of interest to a user, so if each user can
+select what aspect of the driving experience is measured, more users will find the system to be relevant.
+By involving the user in the creation or customization of the gamification system, the user can select or
+create meaningful game elements and goals that fall in line with their own interests.
+A related theory out of Human-Computer Interaction that has been applied to gamification is “situated
+motivational affordance” (Deterding, 2011b). This model was designed to help gamification designers
+consider the context of each of the elements of a gamification system. This theory is based upon the
+underlying concept of “motivational affordance” is that a user is motivated by an aspect of a system only
+when there is a match between that aspect and the background of the user, which is very similar to the
+concept of situated relevance. Deterding moves this underlying concept forward by introducing the
+importance of the organizational context into which the activity is situated in the gamification system. If an
+element of gamification is tied to a financial award in a company, the perception of the gamification as a
+controlling activity by a user is greater than if the same element leads to nothing more than a badge or
+listing on a leaderboard (2011b). Putting these two theories together means that for meaningful
+gamification, it is important to take into consideration the background that the user brings to the activity
+and the organizational context into which the specific activity is placed. A significant challenge in creating
+this type of a broad system is developing a strategy to encompass a wide variety of user backgrounds,
+desires, and skillsets.
+Universal Design for Learning
+The theory of Universal Design for Learning (UDL) from the field of Education is a guide for instructional
+designers to help them create course content that is appropriate for a diverse group of learners. The idea
+behind UDL is that courses should be designed so that students can demonstrate learning in a variety of
+ways. For example, instead of having all students take exams or give presentations, students should be
+able to select the way in which they demonstrate how they have met learning outcomes. The result is a
+course that is meaningful for a wider variety of learners (Rose & Meyer, 2002).
+There are three strategies to creating content for a wide variety of learners. The first strategy is to think
+about different ways to present the content of learning- the "what". The second strategy is to think about
+providing different activities for the learner to explore and demonstrate mastery of content - the "how".
+The third strategy is to give learners different paths to internalize content and become engaged and
+motivated - the "why" (Rose & Meyer, 2002).
+The underlying concept of UDL applies to the creation of meaningful gamification. If users are allowed to
+demonstrate their mastery of an activity in only one way, then the system will not be meaningful to users
+who can perform activity but demonstrate it in a different way than what is measured. The design
+implication of this is that gamification systems need to either allow different ways for users to achieve
+goals so that users can be involved in the ways most meaningful to them or to allow users to set their own
+goals and achievements.
+The different UDL strategies can be used to think through the different aspects of a gamification project to
+add additional ways to making the gamification meaningful. The "what" in gamification are the aspects of
+the underlying non-game activity that are being transformed with game design elements. Many
+gamification projects focus on only a single activity; if a user does not perform that activity well, then
+he/she will not be able to participate in the rest of the gamification system. By thinking of the desired
+outcomes of the non-game activity, designers can consider other ways that users can reach the same
+outcome. The "how" in gamification refers to how the game elements are manifested. This can be the
+points and achievements system or, preferably, the more meaningful elements that are embedded within
+the underlying non-game activity.
+For some users, a point system attached to public status is important enough to them to perform a dull
+task, but for others a leaderboard is meaningless and the task itself needs to be transformed through
+gameful activities to provide that connection. Providing multiple ways to achieve within the gamification 
+Preprint of: Nicholson, S. (2012, June). A User-Centered Theoretical Framework for Meaningful Gamification.
+Paper Presented at Games+Learning+Society 8.0, Madison, WI.
+system can allow users to select those methods most meaningful to them. The "why" is an exploration of
+different ways to help the users connect the gamification process to their own background. A scoring
+system that has no deeper connection to the underlying activity than a quantification provides no way for
+a user to make a meaningful connection to the activity. By making each application of a game element be
+meaningful in a different way, the chances a user will find some way of connecting to the gamification
+more deeply will increase. Ensuring that there are a variety of ways for the "what", the "how", and the
+"why" will allow more users to find meaningful connections to the gamification. Developing this wide
+variety of aspects to a gamification project can be a challenge, but opening up the design of the
+gamification to users of the system can help designers overcome that challenge.
+Player-Generated Content
+One game design feature that has grown in popularity with the ease of online connectivity through games
+is player-generated content, which some in Game Studies are calling “Gaming 2.0” (Djaouti, et al, 2010).
+This concept has been at the center of tabletop roleplaying games for decades, and early text-based
+Multi-User Dungeons (MUDs) allowed players to generate content within the game that others could then
+interact with. Games such as Half Life have opened themselves up to modification, so that players can
+create new worlds for others to explore; some of these modifications, such as the Counter-Strike
+modification for Half Life, were as popular as the original game. Second Life was centered around playergenerated
+content in a massively multiplayer virtual world, and as online networks behind console play
+have strengthened, games like Little Big Planet allow players to engage with what others have created.
+World of Warcraft allows players to create and share new aspects of the user interface to the game, and
+the company integrates the best ideas into new official releases of the game’s interface. What is common
+in these games is that the game designers created not only a game, but developed a system to allow
+others to create and modify the games. Allowing player-developed content extends the life of a game and
+allows the designers to see how creative users can be with the toolkits provided.
+One of the ways to allow users to make gamification experiences that are more meaningful is to allow
+players to set their own goals. Deterding (2011a) puts it well in his the notes to his Google Tech Talk on
+gamification: “One practical way to do this is to allow users to set and customize their own goals within
+the platform. The design challenge here is to support and guide the user in setting long- and short-term
+goals such that they become achievable and provide experiences of mastery on the way” (p. 37). An
+example of this is Chore Wars, where participants create quests for a household or other shared space to
+complete routine chores. McGonigal talks about numerous cases how Chore Wars improved engagement
+with household chores as a case in her book, Reality is Broken (2011).
+The freedom that users have in setting their goals can be based upon the needs of the gamification
+system. In educational contexts where certain learning goals must be met, then constraints can be
+placed upon the user’s choices to guide him or her toward making choices that are both meaningful to the
+user and that meet the needs of the organization. By being transparent about the constraint process, the
+users can learn about why constraints are in place, become more informed about learning outcomes, and
+then see how the game elements are connected to the learning outcomes.
+When applying the concepts behind player-generated content to meaningful gamification, the underlying
+idea is that the designers develop a system where users can create their own tools to track different
+aspects of the non-game activity, to create their own leveling systems and achievements, to develop their
+own game-based methods of engaging with the activity and to be able to share that content with other
+users. Systems where users can transform tasks by adding elements of play and then share their new
+methods allow creative users to think about how to make a task fun without an external reward. Users
+working toward the same set of goals can then form communities around those goals. These
+communities of learners can share experiences and increase their learning around the non-game activity,
+which OIT suggests is a method more likely to create truly internalized experiences.
+Bringing it Together through User-Centered Design
+All of these theories have one thing in common: the user is at the center. The theory of user-centered
+design is ensuring that the user's needs and goals are the primary consideration at every stage of the 
+Preprint of: Nicholson, S. (2012, June). A User-Centered Theoretical Framework for Meaningful Gamification.
+Paper Presented at Games+Learning+Society 8.0, Madison, WI.
+process (Norman, 1990). Each of the theories presented here provides different ways for a designer to
+consider the user. The concept of putting the user at the center of the gamification project is so critical
+that it is key in the definition of meaningful gamification:
+Meaningful gamification is the integration of user-centered game design elements into non-game
+contexts.
+The implications of focusing on user-centered design can help designers avoid meaningless, or even
+harmful, gamification. Using external rewards to control behavior creates a negative feeling in the user
+about the non-game context; therefore, the use of external rewards is not user-centered. Instead, usercentered
+game design elements have to be meaningful to the user and should result in positive change in
+the user's mindset. During every decision in the gamification process, the user-centered designer must
+ask: "How does this benefit the user?"
+Another critical component of user-centered design is that of information. In order for a user to
+understand what is happening, it is important that he or she has more than just a numeric score attached
+to an activity. Having only a numeric score does not allow the user the information to understand what is
+really going on and can make the user suspicious and questioning of the motives behind the score. The
+creation of that scoring system is based upon assumptions and biases of the organization creating the
+gamification system, and therefore, the user is more likely to perceive the gamification as externally
+controlling. By making systems more transparent with the goal of providing the user with information
+instead of providing the user with a score, the user can then create their own games and goals.
+Constraints on these goals can be provided, if needed, with appropriate justification so that the user has
+the information needed to make a decision.
+The opposite of meaningful gamification would be meaningless gamification, and at the heart of
+meaningless gamification is organization-centered design. Gamification tactics that rely upon points and
+levels leading to external rewards that are not related to the underlying activity are not concerned about
+the long-term benefits of the gamification on the user; they are focused on increasing the organization's
+bottom line in the short term. These designers are first asking: "How does this benefit the organization?”
+instead of how the gamification benefits the user. Creating meaningful gamification that benefits the user
+and creates a positive impression of the non-game context will then have a long-term benefit for the
+organization. The benefits to the company result from the positive and meaningful benefits for the user.
+Another threat to meaningful gamification is mechanism-centered design. A trap that game designers
+and companies can fall into is seeing a new or interesting game mechanism and deciding to build that
+into the gamification. Sometimes, this clever mechanism doesn't integrate well into the non-game setting;
+therefore, while a novel mechanism can draw users into the gamification, the lack of integration means
+that users won't fully engage with the underlying activity. Another risk is for an organization to bring in a
+"gamification consultant" who applies a standardized points-based approach to every setting. Bringing in
+a generic game activity that doesn't match the underlying non-game setting will create a hollow
+gamification experience. In both examples, the focus is not on what is best for user, but on what is the
+best, coolest, or easiest-to-implement game without consideration for the user’s underlying needs and
+goals.
+Meaningful gamification is more challenging to create than meaningless gamification, as designers can't
+rely upon a cookie-cutter approach of meaningless points leading to external rewards. Instead, the game
+elements need to come out of aspects of the underlying activity that are meaningful to the user. Instead of
+relying upon external rewards as the sole way to motivate, connections between the game elements and
+important aspects of the activity are presented to help the user make relevant connections between
+aspects of the non-game activity and his or her own goals and desires. Since users are different, a design
+challenge is either offering a wide variety of ways to interact with the game or creating a flexible system
+that will allow user customization so it will be relevant. Introducing the ability to share these
+customizations will allow users to find others that are similar, which can be a meaningful result of the
+gamification process.
+Examples of Meaningful Gamification
+Preprint of: Nicholson, S. (2012, June). A User-Centered Theoretical Framework for Meaningful Gamification.
+Paper Presented at Games+Learning+Society 8.0, Madison, WI.
+Rather than using a point system, meaningful gamification encourages a deeper integration of game
+mechanisms into non-game contexts. Meaningful gamification techniques focus on the consideration of
+aspects of the underlying activity to understand where an integration of game elements makes sense.
+Even more intriguing is to go beyond games into the integration of pure play elements. A game without
+scoring can be called play; therefore, removing the scoring elements from a gamification context
+encourages a focus on the integration of play. An excellent example of this is a subway in Sweden where
+they added a piano keyboard to the stairs going into the subway, and many more people took the stairs
+instead of the escalator (Volkswagen, 2009). Perhaps this concept is important enough for its own term:
+"playification" is the use of play elements in non-play contexts.
+A class of examples of meaningful gamification is most Alternate Reality Games (ARGs). In these
+games, game elements are used to tell a story that is based upon a non-game setting. Many of these
+games allow a variety of ways to interact with the ARG and emphasize an engaging story and interesting
+activities instead of relying upon a point system and leaderboards. While these score-based elements
+may exist in the ARG, a well-designed ARG doesn't need these tools to create an engaging and
+meaningful experience. Many ARGs have community-based aspects so that participants can find
+meaning through group engagement as well as their personal interest. Developing an ARG is a timeconsuming
+process that requires designers to understand the non-game setting well enough to integrate
+gaming elements in a meaningful way. McGonigal argues that good ARGs present obstacles within a
+story with a wide scope, and that players feel satisfied and positive about their own abilities by
+overcoming them (2011).
+Another example of meaningful gamification is the display of the Toyota Prius. This game-like display
+shows the driver if power is coming from the fuel or battery, and when power is being directed back into
+the battery. The driver can get information about how their driving is affecting the car. This information
+enables the driver to create their own games and goals. If the car simply presented the driver with a
+“Green Score” without this information, the driving experience would be much less meaningful. Taking
+this concept further, a physical therapy visualization tool that allows the patient to see how the body is
+changing as he or she does each repetition can allow each patient to set a different goal that is
+meaningful. The therapist can help the patient set goals through constraints, and by exploring those
+constraints, the patient can then understand how the physical therapy connects to the exercise goals. By
+giving the patient information and control over goals, the patient is much more likely to find the internal
+meaningful connections to be able to continue the therapy away from the therapist.
+Conclusion
+In conclusion, meaningful gamification puts the needs and goals of the users over the needs of the
+organization. If users have a positive and meaningful game-based experience that is well-connected to
+the underlying non-game setting, then the organization will benefit in the long term. Meaningful
+gamification focuses on introducing elements of play instead of elements of scoring. The same activities
+will not be meaningful to all users, so designers need to provide a variety of game-based activities to
+appeal to different users or a customizable gamification system where users can create their own
+activities. The dependence upon external rewards for motivation should be replaced by connections
+between the non-game activity and needs or goals in the user's life based upon information, which will
+allow users to have a positive internalized experience. The resulting user-centered meaningful
+gamification will result in longer-term and deeper engagement between participants, non-game activities,
+and supporting organizations.

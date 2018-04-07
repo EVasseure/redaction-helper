@@ -1,0 +1,240 @@
+Raising engagement in e-learning through gamification
+Cristina Ioana Muntean
+Cybernetics and Statistics, Babes-Bolyai University, Romania
+Strada Mihail Kogălniceanu, Nr. 1, Cluj-Napoca, Romania
+E-mail: cristina.muntean@econ.ubbcluj.ro
+Abstract
+Games are part of day to day life, entertaining users, but at the same time modelling
+behaviors. By applying game mechanics and dynamics to tasks and e-learning processes we
+can increase user engagement with an e-learning application and its specific tasks. While
+having multiple uses in commercial practices, gamification implies well established
+techniques similar to those found in games. We will take a closer look at the ones that are
+appropriate to the learning process and moreover to e-learning and analyze relevant
+examples.
+Keywords: gamification, e-learning
+1. Introduction
+The idea of using games for learning is not new. This is customary especially in the case of direct
+interaction between teacher and student. Transposing this into a digital form of teaching and
+learning might become an issue. Our proposed solution when confronted with this problem is
+attempting to gamify the e-learning process.
+Gamification (Deterding et al, 2011) is the use of game-play mechanics for non-game
+applications. Any application, task, process or context can theoretically be gamified.
+Gamification’s main goal is to rise the engagement of users by using game-like techniques such as
+scoreboards and personalized fast feedback (Flatla et al, 2011) making people feel more ownership
+and purpose when engaging with tasks (Pavlus, 2010).
+Gamification is used in several different contexts mostly business and marketing, but we
+further wish to demonstrate its utility and importance in the educational environment as well. By
+incorporating game elements into work activities we wish to raise motivation (Shneiderman, 2004)
+but, in order to do so, we need to pay attention to the integration of tasks and exercises within the
+game design (Von Ahn and Dabbish, 2008).
+Creating gamers for learning employ costly resources. A simpler yet still efficient approach is
+to use gamification in order to make the content more attractive and engage users.
+By using gamification in e-learning we wish to trigger a more efficient and engaging learning
+behavior. B.J. Fogg argues that people respond to computers as they were persons, especially
+when gaming (Fogg, 2002). In order to change or trigger a certain behavior students need to be
+motivated and at the same time have the ability to solve the challenges.
+Gamification also implies a social game and interaction with other participants. Fogg explains
+that when people perceive social presence, they naturally respond in social ways and have feelings
+like empathy or anger, or following social rules such as taking turns (Fogg, 2002).
+2. Persuasive Technology And The Fogg Behavioral Model
+The limitations of e-learning from a pedagogical point of view are the fact that it cannot transmit
+emotion or engage the student as a teacher could. For this lack of feeling or emotional interaction,
+an e-learning system must compensate and try and stimulate learners with other means.
+324 University of Bucharest and "Babeş-Bolyai" University of Cluj-Napoca
+JB Fogg studied the concept of persuasive technology (Fogg, 2002) and how we can design
+systems that impact the user also on an affective level. He proposes a model Fogg's Behavior
+Model (FBM) (Fogg, 2009) that studies the factors that can generate a certain behavior. This
+model has a high applicability in the case of a human-computer interaction.
+The model comprises 3 main elements: motivation, ability and triggers, which occurring at the
+same time can determine a target behavior.
+We further try to view how we can apply this model to an e-learning system and its users. As
+mentioned before, in order to effectively go over course and learn, the student must be at the same
+time motivated, capable and triggered in order to accomplish a desired action or a target behavior.
+He must reach the behavior activation threshold in order to read, learn or solve. The desired state
+for the student is referred to as flow, an optimal state which translates into concentration, when we
+believe the students interacts most effectively and the actual learning takes place.
+Motivation, at its core, can be caused by couples of opposites like pleasure/pain, hope/fear, and
+social acceptance/rejection. If for example a student is able to solve a problem but has no
+motivation to do it, he will not do so. Once his social reputation is at stake or he is conscious of the
+fact that he might get a small grade, the motivation, either positive or negative will determine him
+to solve the problem.
+On the other hand ability is also a factor that influences the occurrence of a behavior. Even if a
+person is highly motivated, a behavior cannot occur if he does not have the ability. On the other
+hand a high motivation can determine a subject to find the means to accomplish a task, thus gain
+the ability
+Fogg also states that motivation and ability alone are not enough to determine a behavior. A
+certain behavior needs a trigger, something to tell the user to complete the action in a certain
+moment; it is also referred as a call to action. Triggers are connected to motivation. They can be a
+spark – this tends to motivate a user, a facilitator – tends to offer ability to highly motivated users,
+and lastly a signal – when users have both ability and motivation, but it functions as a reminder.
+Examples of target behavior can be: donate money, buy a product or share with a friend.
+Computers and the use of technology enable us to act instantly to triggers. A future trend is
+moving technology towards mobile and thus e-learning can become m-learning, and courses can
+also be context aware and supporting multiple formats (Morar, 2010). Because of the size
+limitations of mobile phones we must adapt the structure of courses and evaluation to fit to these
+smaller environments, but nevertheless achieve the desired goal.
+3. Games In Real Life And In E-Learning
+Games are part of everyday life. Americans spent over $25 billion on video games in 2010. Their
+main goal is entertainment, but their universal applicability gave games extra functions in various
+aspects of everyday life. Games are used not only for leisure but also by industries like defence,
+education, scientific exploration, health care, emergency management, city planning, engineering,
+religion, and politics. They are also called serious games and their main purpose is to train,
+investigate, or advertise.
+Serious games are complete games with serious intentions and designed accordingly whereas
+in gamified application only certain elements from games are used.
+Learning through games is not a novel approach. Elisabeth Corcoran (Corcoran, 2010) claims
+that there are at least 3 types of games used in education: the classic edu-tech games, games
+developed by students themselves like Scratch and the last approach gamified courses, meaning
+adding game mechanics to various applications, tasks, etc. Whether offline or online, games have
+helped scholars reach their educational goals in a more engaging way. Nevertheless we must note
+the difference between the so called “educational games (serious games, simulators)” and the
+gamification of e-learning. While the first employs a bigger quantity of resources, game design
+knowledge and graphics, the second one does not engage as many resources or a special design.
+The 6th International Conference on Virtual Learning ICVL 2011 325
+4. The Gamification Of Education
+There is little research however regarding the usefulness of gamification in education. In (Lee and
+Hammer, 2011) the authors start by explaining the meaning of gamification, what it is and how it
+can be used, while also pointing out the possible disadvantages in case of misuse. They define it as
+the use of game mechanics, dynamics and frameworks to promote desired behaviors. Returning
+also to the point made by Fogg we can use gamification to determine certain behaviors or correct
+others and we can thus see the utility of using gamification in learning, and even more in elearning.
+There might be possible dangers if the gamification design does not suit the purpose of
+motivating students to engage and offer support to teachers and on the contrary for example it
+might teach students that they should learn only when provided by an extrinsic motivation.
+Authors of (Kapp, 2011) notice a large increase in the gamification of learning and instruction.
+Due to the user of game elements like time, accuracy, point systems integrated intro all types of
+training programs encourage users to achieve their desired goals.
+5. Gamification
+Gamification is the use of game play elements for non-game applications, particularly consumeroriented
+web and mobile sites, in order to encourage people to adopt the applications. It also
+strives to encourage users to engage in desired behaviors in connection with the applications
+(http://en.wikipedia.org/wiki/Gamification).This definition is related to similar pre-existing
+concepts such as serious games, serious gaming, playful interaction, and game-based technologies
+(Deterding et al, 2011).
+Mundane activities especially for a longer period of time are not appealing but by combining
+these activities with simple games we can create a more effective way to motivate people (Chrons
+and Sundekk, 2011). Turning useful activities into games is called gamification and it has found its
+way into many uses such as education.
+Gamification is a quite recent concept, on the market as well as in research, but it has a big
+potential. It has been added to the Gartner Hype Cycle for 2011. Gartner Group predicts
+gamification will be a key trend that every CIO, IT planner and enterprise architect must be aware
+of as it relates to business (Gartner Group, 2011).
+Figure 30. Gartner Hype Cycle for 2011
+326 University of Bucharest and "Babeş-Bolyai" University of Cluj-Napoca
+Gamification is recently successfully in websites in order to create loyalty, brand awareness
+and effective marketing engagement (Foursquare, Stack Overflow) (Daniels, 2010), but according
+to our observations it can successfully be used also in the educational environment.
+There are several successful gamification examples like ZeroEmission from Nissan used for its
+ecological model Nissan Leaf. Kobo Reading Life is an application that tries to gamify reading,
+Nike ID is an e-commerce gamified application allowing users to design they own shoes and the
+most popular designs gather points. Various application of gamification can be found in the
+industry of health and wellness: Keas, FitBit, Lose It. Motivation and learning also offer examples
+like: Stick.com, MindSnacks, and EnglishAttack.
+Gamification desires to combine intrinsic motivation with extrinsic one in order to raise
+motivation and engagement. Intrinsic motivations come from within, the user/actor decides
+whether to make an action or not, some examples are: altruism, competition, cooperation, sense of
+belonging, love or aggression. Extrinsic motivations, on the other hand, occur when something or
+someone determines the user to make an action for example: classifications, levels, points, badges,
+awards, missions (Viola, 2011).
+In Figure 2. we can see which intrinsic motivation can be generated through existing game
+mechanics.
+Figure 31. The relation between game mechanics and aesthetics [Bunchball.com]
+When trying to gamify an application there are some key components that need to be taken into
+consideration and that build up a coherent overview of the entire functionality (utility) of an
+application/website. Game mechanics and features are comprised in the game design in order to
+create gameplay (http://gamification.org). Game mechanics are a set of rules and feedback loops
+that create the gameplay. They represent the fundamentals of any gamified context. Each game
+mechanic is characterized by three attributes:
+• Game mechanics type: Progression, Feedback, Behavioral
+• Benefits: engagement, loyalty, time spent, influence, fun, SEO, UGC, Virality
+• Personality types: explorers, achievers, socializers and killers.
+6. How to gamify an e-learning application?
+In the following section we try to exemplify how gamification can be applied in the context of an
+e-learning course. E-learning courses are usually linear courses. This kind of content structure can
+allow us to easily gamify the content. The basic idea is to uncover content progressively, put more 
+The 6th International Conference on Virtual Learning ICVL 2011 327
+focus on exercises while offering the theoretical means for them to be solved and offer points for
+correctly solving them.
+When designing the gamification of the course we try to answer the following questions: why
+do we gamify a service, what are the goals and what are the benefits expected. It is important to
+take into consideration the subject we are addressing. In game psychology there can be identified
+several personality types. These types are: achievers, explorers, socializers and killers (Bartle,
+2004).
+We will start on discussing an e-course example studied by Bamber (Henrich and Morgenroth,
+2007), a course in information retrieval. We do not have access to the contents of such a course but
+by studying the example we try to come with some propositions for system improvement.
+The purpose of any e-course application is to share knowledge to the users and in most cases
+offer means of evaluation and feedback. The main goal is to motivate students to learn the
+available information as best as possible in order for them to perform well during evaluation and
+advance through the course with success.
+By using this application we wish to motivate users to study, rise engagement of students with
+the systems. By spending more time with the system we expect that the users get better results,
+advance through the course faster and perform better on final tests.
+In (Henrich and Morgenroth, 2007), the authors present an Information Retrieval e-learning
+course divided into two different modules IR1 and IR2 that have been used for five years for
+students enrolled in distance learning and which present different characteristics. The didactic
+concept is presenting the course content two 4 different types of users:
+• Presence learning supported by e-learning materials
+• Distance learning with physical on-site presence for discussion
+• Distance learning with supervision
+• Distance learning without supervision
+The informative material varies from the first category to the last one. The information
+presented regardless of each form should be complete, but the fact that for example the first group
+can benefit from constant supervision and assistance the e-learning system should compensate this
+for the last group and create support mechanisms for students with questions. The first group
+benefits from teaching and exercises during the course but also from materials provided by the elearning
+application like scripts, self assigned tests and mid-terms. While the first two groups have
+contact with the teacher on a regular basis, the last two use forums, emails or chat.
+In addition to the information already included in the course we propose the following
+gamification elements:
+• Any student needs an account where they can edit their personal profile, in game
+mechanics known as avatar and customize it according to their preferences. They select
+preferences and courses followed and passed, thus focusing on positive the positive
+results). They can belong to groups and have access to an activity feed where
+notifications, news and updates are received.
+• The course is divided into main chapters or sections. By applying the cascading
+information principle, we divide the course into smallest bits of coherent content. The
+content should be synthetic, but should offer link to more detailed information (links,
+graphics etc.). Each piece of content should be followed by exercises and an evaluation
+step. By doing the exercises at the end of each section the student accumulates points. At
+the end of each chapter the student advances a level, this being a valuable achievement.
+This has a direct effect on his status. A relative positioning between his peer can be
+presented in a leaderboard but also top scores.
+328 University of Bucharest and "Babeş-Bolyai" University of Cluj-Napoca
+• They must be constantly offered feedback and be informed of their progression within the
+course, for this it is important to use progression bars.
+• Offer the ability to create periodical physical or virtual appointments or curfews and
+deadlines in order to motivate them to return periodically to the application.
+• The system should be made as social as possible (Farzan and Brusilovsky, 2005) in order
+to simulate the familiar environment of a classroom and a classroom community. This is
+important for achievers that need recognition from peer but also to motivate students
+through peer pressure or comparison with other students.
+• For accomplishing difficult tasks or exercises the students receive special bonuses.
+• The system should compensate students not only for their academic achievements but
+also for proper behavior and social engagement like helping peers, commenting, and
+adding value to the application etc. by offering badges.
+• Offer the possibility to convert points or badges into virtual goods or even get discounts
+for the tuition fees. Students will engage more with the application and will be motivated
+to earn more points in order to benefit from these advantages.
+• While advancing within the course the student should be informed of the next step so as
+to know what to expect. Anticipation is a strong motivator which can get users excited
+and engage for a longer period of time and maintain the flow of learning.
+7. Conclusions
+Gamification does not imply creating a game. It means makes education more fun and engaging,
+without undermining its credibility. Gamification helps students gain motivation towards studying,
+and because of the positive feedback they get pushed forwards and become more interested and
+stimulated to learn. Gamification can constitute a powerful boost to determine them to study/read
+more.
+According to (http://gamification.org/wiki/Encyclopedia) engagement is the important metric
+for success in gamification. There are several metrics to analyze engagement which due to
+technological advancement in analytics can be included into such a web application. These metrics
+are: page views per visitor, time spent on site, total time per user, frequency of visit, participation
+and conversions.
+In our future work we wish to implement the gamification elements proposed on an e-learning
+course and follow the above mentioned metrics. It is however intuitive that gamification can
+improve motivation and engagement of users with such a system.
+By gamifying an e-course we do not wish to replace the intrinsic motivation of student, which
+is stinger and more long term, with the extrinsic one, but offer a combination of the two for a
+better performance. Gamification offers the proper tools to generate positive change in behavior
+as according to Fogg. We can use this mean to create more effective and engaging e-learning
+applications

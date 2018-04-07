@@ -1,0 +1,543 @@
+Defining Gamification - A Service Marketing Perspective
+Kai Huotari
+School of Information, UC Berkeley California, USA
+Hanken School of Economics, Finland
+Helsinki Institute for Information Technology HIIT, Aalto
+University
+PO Box 19215, 00076 Aalto, Finland +358 50 384 1557
+kai.huotari@hiit.fi
+Juho Hamari
+ Helsinki Institute for Information Technology HIIT, Aalto
+University, Finland
+HIIT, PO Box 19215 00076 Aalto, Finland
++358 40 835 9563
+juho.hamari@hiit.fi
+ABSTRACT
+During recent years “gamification” has gained significant
+attention among practitioners and game scholars. However, the
+current understanding of gamification has been solely based on
+the act of adding systemic game elements into services. In this
+paper, we propose a new definition for gamification, which
+emphases the experiential nature of games and gamification,
+instead of the systemic understanding. Furthermore, we tie this
+definition to theory from service marketing because majority of
+gamification implementations aim towards goals of marketing,
+which brings to the discussion the notion of how customer / user
+is always ultimately the creator of value. Since now, the main
+venue for academic discussion on gamification has mainly been
+the HCI community. We find it relevant both for industry
+practitioners as well as for academics to study how gamification
+can fit in the body of knowledge of existing service literature
+because the goals and the means of gamification and marketing
+have a significant overlap.
+Categories and Subject Descriptors
+H1.m. Information systems - Miscellaneous
+General Terms
+Theory, design, management
+Keywords
+Gamification, games, game design, service marketing, service
+design, persuasive technologies
+1. INTRODUCTION
+Gamification has raised a lot of interest both in industry [21] and
+also increasingly in academia [7][22][3] during the past few years.
+For example, the success of mobile services such as Foursquare
+and Nike+ are often attributed to gamification [7]. This discussion
+has remained, however, mainly in the realm of game studies and
+social sciences. Although an increasing number of games are
+offered as services to consumers, only very few academic articles
+that bridge game studies to service or marketing literature have
+been published (see exceptions e.g. [26][14][15]). Anchoring
+findings in game studies to the existing service marketing
+literature could provide a framework on how gameplay can be
+viewed as a part of the overall service and on how it supports the
+core service offering. It could also bring proven models from
+service marketing to the development of “gamified” services.
+In the next section of this paper, we give an overview to the
+central concepts of gamification in game studies. In section
+number 3, we introduce service marketing and then in section 4 go
+on in presenting some of its concepts relevant for our study. In
+section 5, we situate games to the service marketing literature and
+then in section 6, we elaborate on the experiential nature of
+games. In section 7, we present a definition for gamification from
+the service marketing perspective. In section 8, by referring to our
+definition we show how it can be used to identify four possible
+gamification providers. In section 9, we discuss how the new
+definition relates to game studies. In section 10, we summarize the
+results and discuss its contribution both to the scientific
+community as well as to the practitioners. In the final chapter 10,
+we give some directions for future research.
+2. GAMES AND GAMIFICATION FROM
+THE PERSPECTIVE OF GAME STUDIES
+In game studies, games are seen as a collection of multiple
+necessary conditions. None of these conditions alone is sufficient
+to constitute a game and it is only in combination of them that a
+game emerges [19][7]. Juul (2003) assembled seven previous
+definitions, analyzed them and then presented a new definition. In
+the definitions assembled, the conditions necessary for games
+vary from author to author. For example, [2] described game as an
+“exercise of voluntary control systems in which there is an
+opposition between forces, confined by a procedure and rules in
+order to produce a disequilibrial outcome.” A more recent study
+[24] defines a game in turn in the following way: “A system in
+which players engage in an artificial conflict, defined by rules,
+that result in a quantifiable outcome”. Juul (2003) describes a
+game as “a rule-based formal system with a variable and
+quantifiable outcome, where different outcomes are assigned
+different values, the player exerts effort in order to influence the
+outcome, the player feels attached to the outcome, and the
+consequences of the activity are optional and negotiable”[19].
+Although, the definitions vary in emphasis they all include both a
+systemic component, defining how the game is constructed and an
+experiential component describing the human involvement within
+the game. In the Table 1 below, we have enlisted all these
+conditions of the definition of games and gamification from past
+literature.
+In addition to the division along systematic/experiential axis,
+Table 1 arranges the conditions to three separate abstraction
+levels. The first and the most abstract level is shared by all game
+definitions. It simply states that games are systems, meaning that
+games are constituted of several interacting sets of mechanisms
+and actors (systemic condition) and that games always require the
+active involvement of at least one player (experiential). The
+second abstraction level includes conditions that are characteristic
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that
+copies bear this notice and the full citation on the first page. To copy
+otherwise, or republish, to post on servers or to redistribute to lists,
+requires prior specific permission and/or a fee.
+MindTrek 2012, October 3-5, 2012, Tampere, FINLAND.
+Copyright 2012 ACM 978-1-4503-1637-8/12/10…$10.00..
+17
+to games, but are not necessarily present in all games. Under this
+category fall such systemic conditions as rules, conflicting goals
+and uncertain outcomes. Deterding et al. (2011) labels these
+conditions game design elements [7]. Level 2 experiential
+outcomes are hedonic experiences, suspense (that results from
+player valuing outcomes but being uncertain of them) and
+gamefulness. Also mastery and competence stated by [23] could
+be included in this category. The third abstraction level should
+include conditions that are unique to games. However, this level
+remains empty in the light of past literature defining games. There
+does not seem to be elements that were solely unique to games.
+Table 1: Game conditions
+Level of abstraction Systemic
+conditions
+Experiential
+conditions
+1st level (common to all
+games)
+- Games are
+system (1, 2, 3, 4,
+5, 6, 7, 8, 9)
+- Games require
+voluntary involvement
+of players/users (1, 2, 3,
+4, 5, 6, 7, 8, 9)
+2nd level (characteristic
+to games, although not
+necessarily to all
+games)
+- Rules (1, 2, 4, 5,
+6, 7, 8, 9)
+- Conflicting
+goals (1, 3, 4, 6,
+7, 8, 9)
+- Variable and
+uncertain
+outcomes (1, 2, 4,
+6, 7, 8)
+- Generates hedonic
+pleasure (2, 4, 5, 6)
+- Generates suspense (4,
+6)
+- Generates gamefulness
+(4)
+3rd level (unique to
+games)
+- ? - ?
+Referred articles: 1.[2]; 2. [4]; 3.[5]; 4.[7]; 5. [17]; 6.[19]; 7. [20]; 8. [24];
+9. [27]
+The lack of systemic conditions unique to games is not surprising,
+as [19] and [7] have stated that a game emerges only as a
+combination of conditions and that none of the conditions alone is
+sufficient in constituting a game. However, it is surprising that
+none of the definitions describe an experiential condition unique
+to games. If this would be the case, how would anyone recognize
+a game? Or to put the question in [19]’s and [7]’s words, how
+would anyone know when a game has emerged from a
+combination of different necessary conditions if it were not for an
+experiential condition unique to games? The term ‘gamefulness’
+could be used to describe such a unique condition, just like
+McGonigal [28] has suggested. Yet, [7] make a distinction
+between games and gamified services and state that both can lead
+to gameful experiences, thus rendering gamefulness a condition
+that is not unique to games. However, we think this is up for
+debate.
+The term ‘Gameification’ was first used in 2008 in a blog post by
+Brett Terill [29]. He described the term as ‘taking game
+mechanics and applying them to other web properties to increase
+engagement.’ To a more widespread industry use the term became
+during 2010 in its current form ‘gamification’ [7].
+In spite of the attention the term received quickly in the industry,
+the academia has been slow to react. To our knowledge there are
+only two definitions for gamification: the one given by Deterding
+et al. [7] and the one presented in the first short version and now a
+drastically different version of this paper. Deterding et al. [7]
+describe gamification as the use of game design elements in nongame
+contexts. While [7] discuss the experiential aspects of
+games, their definition of gamification adopts only a systemic
+perspective to games. We argue that this approach has several
+shortcomings and we will discuss them in section 6. In order to
+give context to our arguments, let us first turn to service
+marketing literature: its origins and some of its key concepts.
+3. EMERGENCE OF SERVICE
+MARKETING
+In the late 1970’s and early 1980’s, a handful of marketing
+scholars started forming a new school of thought for marketing
+concentrating on services because the classical marketing axioms
+were based on the exchange of physical goods, which could not
+provide a sufficient understanding on services [13]. This line of
+research developed quite independently of the mainstream
+marketing science until the 1990’s [12] when it started to gain
+popularity also outside the sphere of service marketing scholars.
+Marketing theory build to fit services started to seem applicable
+also for goods marketing. In 2004, [31] launched the term servicedominant
+(S-D) logic for marketing and proclaimed that the
+service approach should replace the classical marketing theory.
+Since then, the S-D logic for marketing has gained growing
+interest both in academia as well as in industry.
+Two key concepts of the service approach, customer as coproducer
+and value-in-use, help to explain the ubiquitous
+applicability of the service logic and the profound difference
+between the traditional, goods-dominant logic and the new
+service-dominant logic.
+In traditional marketing theory, the production is considered to be
+carried out by the company and value is considered to be created
+during the production process by the company and to be
+embedded in the resulting product. The product then “carries” the
+value in it and the value is transferred from company to the
+customer with the transaction. In service context however, this
+value-in-exchange approach becomes meaningless, as there is no
+physical product to which the value could be attached.
+Service marketing literature sees the customer always as a coproducer
+of the service, i.e. participating in the production process
+as the value is generated only once the customer uses the service
+or the good. In this value-in-use model company’s role in the
+value creation is to support the customers’ processes by offering
+resources into them. Resources can refer e.g. to personnel,
+machinery, service setting, or to available information sources.
+Furthermore, the value is considered to be experienced and
+determined by the beneficiary phenomenologically [32].
+4. SERVICE, SERVICE SYSTEM AND
+SERVICE PACKAGE
+For the purpose of defining gamification, three key concepts of
+service marketing need to be defined: service, service system and
+service package.
+Vargo and Lusch [31] define service as “the application of
+specialized competences (knowledge and skills), through deeds,
+processes, and performances for the benefit of another entity or
+the entity itself”. Thus, any intentional act - no matter how small -
+that helps an entity can be considered a service.
+A systematic bundle of services constitutes a service system that,
+according to [25], “is an arrangements of resources (including
+people, technology, information, etc.) connected to other systems
+by value propositions”. A service system’s aim is to use its
+resources and the resources of others to improve its circumstance
+and that of others [33].
+18
+The service package model [13] in turn helps firms manage
+bundled services or service systems. The basic service package
+consists of the core service, enabling services and enhancing
+services. Enabling services are required in the offering of the core
+service, while enhancing services support the offering of the core
+service and thus increase its value or differentiate it from
+competitors’ services.
+5. GAMES AS SERVICE SYSTEMS
+As the previous section demonstrates, there are a lot of
+complementarities between the game literature and service
+marketing theory. Seen through the service marketing literature,
+game design elements can be described as services and games as
+service systems. This is supported by table 1 that shows that
+games are always regarded as systems that require an active
+involvement by the player.
+Games are thus co-produced by the game developer and the
+player(s). The game developer’s part of the co-production takes
+place when the game’s storyline is created, rules invented, game
+design patterns chosen and visuals designed etc. The player(s)’s
+part of the co-production and of the value-creation takes place
+each time the game is played or otherwise interacted with. The
+game can also be solely or partly developed by the player, of
+course. The core service of the game is to provide hedonic,
+challenging and suspenseful experiences for the player(s) [21] or
+gameful experiences [22]. The quality of such a “game service” is
+strongly determined by the functional quality of the service or
+game experience, which is often referred to as flow [6].
+6. SUBJECTIVE NATURE OF THE
+EXPERIENCED VALUE OF A GAME
+It is noteworthy that from the service marketing perspective, it is
+always only the player’s participation in the game, i.e. playing the
+game, that completes the production of the game service. This
+notion is consistent with the definitions of games presented in
+chapter 2 that see player’s voluntary commitment and
+participation as one key building block of a game. However,
+according to the service marketing theory, the value of a service is
+determined solely by customer’s subjective experience, as service
+providers can make only value propositions. What follows is that
+value of a game service, be it ‘pleasure’, ‘suspense’, ‘mastery’ or
+‘gamefulness’, is always determined by the player’s individual
+perception. In other words, it is possible that the use of a game
+service leads to gameful experiences with one user but does not
+do so with another user. This difference in outcomes may be due,
+for example, to differences in skills of the two users/players (see
+e.g. [30]).
+The experience of playing a game as well as determining what is a
+game is deeply individual. Thus, in our view, a game emerges
+only when the use of the service results in a gameful experience.
+What follows is that we see gamefulness as a unique experiential
+condition to games.
+This greatly differs from the gamification definition proposed by
+[7], which highlights that only non-games can be gamified. The
+obvious question is: How can a service designer possibly identify
+a non-game context, when the existence of game is dependent on
+the subjective perception of the player/user. If the sensation of
+gamefulness is not unique to games this question becomes
+impossible to answer even for individual consumers. For example,
+a stock market and dashboard for participating in it can easily be
+perceived as creating gameful experiences for some users
+although it is not generally perceived as a game by all users.
+Thinking what is a ‘full-fledged game’ and what is not will only
+lead the designers astray from what should be their focus:
+customer/user/player experience.
+These incompatibilities led us to seek for an alternative way to
+define gamification from the perspective of service marketing.
+7. A PROPOSED DEFINITION FOR
+GAMIFICATION
+Based on the literature presented above, we define gamification in
+the following way:
+Gamification refers to: a process of enhancing a service with
+affordances for gameful experiences in order to support user's
+overall value creation.
+We would like to emphasize that the definition highlights the goal
+of gamification - the experiences that it attempt to give rise to -
+rather than the methods. Past definitions rely on the notion that
+gamification is based on the use of game elements. However,
+there doesn’t seem to exist a clearly defined set of game elements
+which would be strictly unique to games, neither they
+automatically create gameful experiences. We can find similar
+elements from a variety of non-game contexts as well. If we
+subscribed to the idea that game elements create a game or gamify
+a system, then we could conclude that also stock exchange
+dashboard, decision support systems, loyalty programs and other
+services that have for example levels, points and progression
+metrics would also be games, regardless of the subjective
+experiences the users have. Furthermore, gamification is not
+always carried out through any concrete elements alone.
+Therefore, we argue that the definition of gamification (nor
+games) cannot be based on a set of methods or mechanics, but
+instead it has to be understood more broadly as a process in which
+the gamifier is attempting to increase the likelihood for the
+gameful experiences to emerge by imbuing the service with
+affordances for that purpose (be it badges or more implicit cues).
+The term affordance here can refer to any qualities of the service
+system that contributes [11] to the emergence of gameful
+experience.
+Another aspect we would like to highlight is that the definition
+does not imply that the process of gamification has to be
+successful. In the same way as game services or products,
+gamification can only attempt to support the user in creating
+gameful experiences.
+Currently, it seems that the successfulness of gamification has
+mostly been measured through sales figures, “clicks” and general
+retention of users. However, if we accept that gamification aims to
+create “gameful” experiences, then the successfulness of
+gamification should also be measured through same measurement
+instruments as games are.
+This notion also leads to another point that gives boundary
+conditions to gamification. If gamification is designed solely to
+increase figures related to marketing instead of gameful
+experiences, the designers are in danger to fall into a trap that
+leads to a conflicting situation between selling and creating
+valuable experiences. One of the defining aspects of gameful
+experience is that it is voluntary and that it is carried out by
+having intrinsic motivation. If, however, the designer attempts to
+direct player/customers decision making in a way that it reduces
+the player/user’s free choice, then the design moves further away
+from what is in the core of a gameful experience. With ‘gameful
+experience’ we refer to an experience leading to ‘gamefulness’ -
+an experiential condition unique to games. However, defining
+19
+exactly what "gamefulness" means is outside the scope of this
+paper, as defining "gamefulness" would also require us to define
+games themselves.
+The word ‘enhancement’ in the definition refers to the service
+package concept of service marketing literature introduced in the
+section 4. It entails that gamification describes a service system
+where a core service is enhanced by another one. From marketing
+perspective it is essential to make this distinction.
+According to the definition, Foursquare, for example, is not a
+gamified service in itself, but it can potentially gamify, that is,
+enhance other services, such as restaurants or bars, through rules,
+goal setting, variable outcomes, feedback and rewards. Moreover,
+the definition remains agnostic to the nature of the core service.
+This means that the core service can also be a game that can be
+further gamified, creating so-called meta games. From this
+perspective, it is not only non-games that can be gamified.
+Table 2: Examples of gamification
+Core
+service
+Enhancing service Gamified service
+Profile in
+LinkedIn
+Progress bar for
+measuring progress
+in filling personal
+details
+The enhancing service increases the
+perceived value of filling all details
+by invoking progress-related
+psychological biases.
+Café Mayorship
+competition in
+Foursquare
+The enhancing service creates a
+competition between customers
+where they have to visit the café
+frequently enough -> retention
+Dry
+cleaner
+Loyalty stamp card.
+You get 1 stamp for
+every visit
+The enhancing service invokes the
+psychological biases related to
+progress and thus increases the
+perceived value of using the same
+dry cleaner service.
+Gym Heya Heya Gym experience that sets goals and
+helps to monitor the progress of the
+training.
+It is important also to notice that according to this definition not
+all service systems combining games and other services involve
+gamification, as it is essential that the enhancing service supports
+the core service, not the other way around. For example, if a
+geocaching [10] game brings a customer to a public park,
+gamification has not occurred, as the core service is the
+geocaching game. In contrast, gamification occurs if the public
+park offers a geocaching game to its visitors.
+After the fact, it may be difficult to make the distinction between
+the core service and the enhancing service. Theoretically it is the
+customer’s subjective perception that determines what should be
+considered as the core service. However before the fact, it is the
+gamification provider’s perception that is decisive as it is the
+gamification provider who decides which service to gamify. Let
+us now, look how by referring to our definition of gamification we
+can identify gamification providers.
+8. FOUR POSSIBLE GAMIFICATION
+PROVIDERS
+It is not always the provider of the core service that also provides
+the gamification process. Based on our definition, we can identify
+four possible gamification providers, i.e. providers of the
+enhancing service. These are 1) The core service provider, 2) A
+third party service provider 3) The customer him/herself 4)
+Another customer. The enhanced service is provided either by one
+of these four parties or by a combination of them. Table 3 presents
+examples of gamified services with different gamification
+providers.
+Table 3: Examples of gamified services with different
+gamification providers
+Core
+service
+Enhancing
+service
+Gamified service Gamification
+provider
+Clothing
+store
+Loyalty
+program
+offered
+through
+Facebook
+deals [8]
+Customers who
+check in regularly
+using Facebook
+Places are offered
+reductions.
+Clothing store
+(core service
+provider) and
+Facebook
+Restaurant
+(e.g.
+Starbucks)
+Local Badges
+in Foursquare
+Customers who
+check in at least
+three times a week
+to a same location
+using Foursquare
+get a badge.
+Foursquare (a
+third party)
+Sports bar Drinking game
+[34]
+Deciding to
+incorporate a
+drinking game to
+watching hockey,
+for example.
+Customer
+himself/herself
+Coffee
+house
+Tip offered
+through
+Foursquare [9]
+Adding a questlike
+tip to other
+customers while
+they are waiting
+coffee.
+Another customer
+and Foursquare
+9. CONCLUSION AND DISCUSSION
+Game study literature and service marketing literature are for
+large parts complementary. However, the previously proposed
+definition of gamification by Deterding et al. [7] adopts a
+systemic approach, which seems incompatible with the
+understanding of value creation in service literature which, in
+contrast, emphasizes the experiential nature of services.
+In this paper, we have defined gamification from the perspective
+of service marketing as ‘a process of enhancing a service with
+affordances for gameful experiences in order to support user’s
+overall value creation. This anchoring of gamification into an
+existing body of knowledge of service marketing and its concepts
+like ‘service package’, ‘value-in-use’ and ‘service systems’ will
+help subsequent research to examine how gamification can
+contribute to marketing sciences. It also provides the gamification
+research with proven theoretical models to build upon. The
+proposed definition is agnostic regarding the nature of the core
+service that is being gamified. Thus, it challenges the view that
+gamification can only happen when game-like elements are used
+in non-gaming contexts.
+Using the proposed definition, we have also identified four
+possible gamification providers. This will help service providers
+when designing the gamification of their service.
+One interesting line for future research could be the investigation
+of customer loyalty cards and other widely used marketing
+techniques as gamified services. Gamification could also be used
+to expand the servicescape model presented by Bitner in 1992,
+from physical settings to more abstract constructions, as [1] have
+suggested. Servicescape gives a framework for the landscape
+where the service takes place and that is under the control of the
+20
+service provider [13]. Servicescape affects customers’ behaviour
+and perceptions. An example of servicescape could be the layout
+of an IKEA store. The layout design forces the customers on a
+certain path that present numerous temptations to them.
+Gamification could be used to enhance the experiential
+dimensions of servicescape that lead customers to gameful paths
+through the service process. 

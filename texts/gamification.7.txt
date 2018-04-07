@@ -1,0 +1,313 @@
+Removing Gamification from an Enterprise SNS
+Jennifer Thom, David R. Millen, Joan DiMicco
+IBM T J Watson Research
+1 Rogers Street
+Cambridge, MA 02142
+{jthomsa, david_r_millen,joan.dimicco}@us.ibm.com
+ABSTRACT
+Gamification, the use of game mechanics in non-gaming
+applications, has been applied to various systems to
+encourage desired user behaviors. In this paper, we examine
+patterns of user activity in an enterprise social network
+service after the removal of a points-based incentive
+system. Our results reveal that the removal of the incentive
+scheme did reduce overall participation via contribution
+within the SNS. We also describe the strategies by point
+leaders and observe that users geographically distant from
+headquarters tended to comment on profiles outside of their
+home country. Finally, we describe the implications of the
+removal of extrinsic rewards, such as points and badges, on
+social software systems, particularly those deployed within
+an enterprise.
+Author Keywords
+Gamification, organizational social networking
+ACM Classification Keywords
+H5.m. Information interfaces and presentation (e.g., HCI):
+Miscellaneous.
+INTRODUCTION
+Designers of social software systems have employed
+aspects of gamification – the integration of game-inspired
+elements – to incent repeat usage, increase contributions,
+and establish user reputations. These incentives can come in
+the form of points, badges and leveling that can help the
+player advance in status. In the workplace, game-like
+systems have been employed to collect information about
+employees [6] and incent contribution within enterprise
+social software [5]. Ultimately, gamification aims to create
+a sense of playfulness in non-game environments so that
+participation becomes enjoyable and desirable.
+Game mechanics draw heavily from theories of social
+psychology that predict how users can be motivated to
+participate in collective systems for individual benefit [1].
+For instance, badges and points can be categorized as
+extrinsic rewards for participation (e.g. posting a comment,
+checking into a location). There is, however, evidence that
+extrinsic rewards can undermine intrinsic motivation to
+complete a task, particularly if the task is interesting and
+beneficial to the user [2]. This suggests if members of a
+community find participation in a social site enjoyable, the
+addition of specific reward structures (e.g. levels, badges)
+may actually decrease already existing intrinsic motivation
+to contribute.
+In this paper, we focus on the implications of the wholesale
+removal of such features from an enterprise social
+networking service and answer the following main research
+question:
+How does the removal of gamification features affect user
+activity within an enterprise social networking service?
+Our data suggests that the removal of such features does
+negatively impact continued participation in the SNS, and
+that the removal of the extrinsic rewards also decreased the
+activity by geographically distant users, despite factors that
+might increase their motivation to maintain activity. We
+make a secondary observation that there were geographic
+differences in how users employed commenting strategies
+within the system, where those outside of the United States
+tended to reach out to those outside their home locations.
+METHOD
+The current study focuses on a points-based system on an
+enterprise SNS deployed within a large IT enterprise
+headquartered in the northeastern United States with a
+globally distributed workforce of approximately 400K
+employees. The goal of the incentive scheme was to
+encourage content contribution, so points were awarded for
+the addition of lists, photos and comments. Each user
+received 5 points for each contributed photo or list, while
+comments on a profile page, photo and list received 15
+points.
+Log analysis had revealed that comments helped to draw
+visitors back to the SNS, so this particular scheme rewarded
+commenting behavior [5]. The incentive design also
+included a leveling component, with 4 tiers of status
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that copies
+bear this notice and the full citation on the first page. To copy otherwise,
+or republish, to post on servers or to redistribute to lists, requires prior
+specific permission and/or a fee.
+CSCW 2012, February 11–15, 2012, Seattle, Washington.
+Copyright 2011 ACM XXX-X-XXXXX-XXX-X/XX/XX...$5.00.
+Citation: Thom, J., Millen, D.R. and DiMicco, J. (to appear). Removing Gamification from an Enterprise SNS. Proc.CSCW2012.
+depending on accumulated points (Figure 1) and the
+appropriate badges displayed on user profile pages. Those
+who received the most points were spotlighted on a leader
+board, accessible from the user’s login page (Figure 1).
+To measure the impact of the points deployment on the
+social system, an experiment was run for six months in
+which half of the site was able to earn points and the other
+half of the site was unaware of the existence of the points
+system. In an analysis of the first three weeks of the
+experiment, the incentive scheme dramatically increased
+the overall levels of content contributed upon introduction,
+followed by a decayed impact [5]. Over the entire six
+months, usage analysis revealed that as new users joined the
+site, those who could earn points added more content over
+time, both short and long-term, yet the proportion of new
+users who contributed content was the same between the
+points-earning and non-points-earning users [3]. After the
+six-month deployment, the points deployment became
+available to all members of the SNS.
+The current study focuses on a specific event that has
+heretofore not been reported in prior research – the
+complete removal of the points system from the site 10
+months after their introduction as an experimental feature.
+Points removal entailed the deleting of all interface features
+related to the incentive, such as the profile badges,
+leaderboards and display of point totals to users. Site
+administrators announced the removal of the points system
+via the user forums found on the employee intranet. The
+data in the current study consists of four weeks of usage
+logs from two weeks before and after points were removed
+from the site. We limited the users of the study to those that
+had used the system at least once during that time period.
+RESULTS
+Our analysis focuses on 3486 members of the site that had
+contributed at least one item of content during the fourweek
+analysis period. Table 1 presents the total number of
+contributions by each of the content types before and after
+the removal of the points system for these members.
+Because the distribution of contributions is non-normal, we
+conducted all analysis on log-transformed data; however,
+we report all results as non-transformed for readability. A
+repeated measures GLM (points deployed/no points)
+reveals that the removal of the points significantly
+decreased contributions of photos (df=1,1717, F=38.24,
+p<0.001) and lists (df=1, 1211, F=39.07, p<0.001). The
+analysis also reveals a main effect of the removal of points
+over all types of comments (df=1,710 F=49.50, p<0.001;
+df=1,885, F=308.78, p<0.001; df=1,1627, F=603.95,
+p<0.001 for lists, photos and profiles respectively).
+We conducted a qualitative analysis of the comments left
+by the point leaders reveals that types of comments
+contributed by the most active users during this time period
+differed in content and formality. One type of comment
+observed was extremely concise and greeting-oriented,
+placed on a profile page.
+“HI”
+Figure 1. Member status display (top), leaderboard showing point totals and count of content contributions (bottom).
+Points Deployed
+Total (#/user)
+Points Removed
+Total (#/user)
+Photos 4502 (2.6) 2926 (1.7)
+Lists 1277 (1.0) 780 (.64)
+Profile comment 8983 (5.5) 4056 (2.5)
+Photo comment 2598 (2.9) 1348 (1.5)
+List comment 1770 (2.5) 873 (1.2)
+Table 1. Contribution of content type during points
+deployment (2 weeks) and after points removal (2 weeks).
+Citation: Thom, J., Millen, D.R. and DiMicco, J. (to appear). Removing Gamification from an Enterprise SNS. Proc.CSCW2012.
+"Hiee..."
+"howz work goin on..?"
+"Nice.."
+Another type of comment left by the points leaders were
+placed on the associated and generally focused on the target
+content of interest.
+"Love the pics. Have some ideas on articles for you, but
+might want to give you the lowdown first. Up for a chat
+sometime?"
+"Connect back to me and then you can see some great
+pictures I know you'll enjoy!"
+After the removal of the points systems, we observed that
+the prevalence of terse greeting-oriented comments
+subsided. One possible explanation can be linked to the
+design of the site. In this case, adding comments to a profile
+page takes one click from the homepage, while adding
+comments to a content type (e.g. photo or list) takes at least
+two clicks.
+Finally, we investigate in more detail whether the pointsbased
+incentive system had a differential effect on globally
+distributed employees. Based on prior research that
+suggested that motivations for SNS usage differ between
+employees who are geographically central and those who
+are geographically distant from headquarters [9,10], we
+analyzed points activity of the 1815 members from the
+United States and the 287 members from India, the two
+most active geographies in the study sample (Table 2).
+Repeated measures GLM (points/no points) and country
+(India/USA) as a between subjects variable reveals a main
+effect of the removal of points over all types of comments
+for both countries (df=1,478 F=15.822, p<0.001; df=1,596,
+F=27.62, p<0.001; df=1,733, F=51.93, p<0.001 for lists,
+photos and profiles respectively).
+The analysis also revealed a main effect of country for
+profile comments (df=1,733, F=444.88, p<0.001), with
+users from India contributing more profile comments than
+those from the United States. While the total (raw) numbers
+for India is generally below those of the US, the
+contribution levels are quite similar when normalized by
+number of active contributors for that content type. The
+noteworthy exception is the number of profile comments
+contributed by employees from India. The total number of
+profile comments is larger than those from US employees
+in total (3543 vs 3502) and considerably higher per active
+contributor (20.7 in India versus 4.1 in the US).
+To further characterize differences in commenting patterns,
+we recoded comments to indicate whether or not users in
+each geography left comments on member content or
+profiles in different countries and same country. Figure 2
+describes the directionality of comments between and
+within countries, normalized by posts/total number of
+members inside and outside the country (e.g. for users from
+India, the number of members inside and outside India).
+These results suggest that users in the United States tended
+to comment on content contributed by users in the same
+country, while users in India tended to comment on content
+created by those outside the country. Closer investigation of
+the points leaders from India reveals that their
+organizational affiliation is from the Services division,
+which is one that provides operational and technical support
+for internal and external clients. This finding is consistent
+with prior research detailing the proportion of friend
+connections between and within countries for India and the
+US [9] and lends additional support to previous
+observations regarding differing motivations for SNS usage
+across factors such as geographical distance and
+organizational function within an enterprise.
+DISCUSSION
+The main contribution of this study is the observation of the
+impact of the removal of a gamification feature within a
+social networking system. The removal of the points system
+made a significant negative impact on the user activity of
+the site, and our analysis suggests that contribution of
+content significantly decreased after the deactivation of the
+points system. This suggests that such extrinsic rewards did
+influence a segment of the user population to participate
+more intensely while the point system was in place.
+Figure 2. Comments within and between countries before and
+after the removal of points.
+USA
+Total (#/user)
+India
+Total (#/user)
+Photos 4090 (4.1) 550 (5.6)
+Lists 1159 (1.7) 104 (1.5)
+Profile comment 3502 (4.1) 3543 (20.7)
+Photo comment 2430 (1.3) 189 (5.6)
+List comment 1584 (3.6) 102 (2.6)
+Table 2. Contribution of content type by country over all
+four weeks.
+Citation: Thom, J., Millen, D.R. and DiMicco, J. (to appear). Removing Gamification from an Enterprise SNS. Proc.CSCW2012.
+We also observed that the removal of the gamification
+feature decreased activity by users in the two most active
+geographies, the United States and India. However,
+compared to users in the United States, users in India
+commented more often on profiles outside of their home
+country. This is consistent with research that suggests that
+geographically distant members of an enterprise, far from
+headquarters, have been observed to use social software
+systems as a way to learn about its organizational culture
+and build one’s reputation [7]. Again, however, there was a
+negative effect of the removal of the extrinsic rewards
+system, suggesting that intrinsic motivation to participate
+may not be consistent across individuals.
+We suggest two main implications for the design of
+gamification systems that result from our findings. First, the
+complete discontinuation of a game-like capability should
+not be taken lightly, as they do seem to motivate
+participation within a social system even for a short period
+of time. If the particular game functionality seems stale and
+in need of a redesign, one approach would be to have an
+immediate transition to another game-like system to incent
+new players or those who do participate primarily for
+extrinsic rewards. In the case of this particular system, the
+designers implemented a new feature to encourage
+viewership of a more diverse set of content [4].
+Second, we observed differences in the way users reacted to
+the incentive system and that there were different strategies
+adopted by the points leaders. However, other members of
+the SNS may perceive unsolicited profile comments as
+disruptive. One possible intervention would be a clearer
+delineation of the rules of engagement and fair play. This
+could be stated in policy by the site administrators or
+through moderation within the system. Another approach
+would be an incentive that increased common ground, as a
+way to encourage collaboration or shared identity as way to
+possibly reduce disruptive gaming from participants who
+follow a different set of game values.
+While we did not specifically study the cultural
+consequences of this specific form of gamification, we
+propose that game-like incentives can embody certain
+values, such as competitiveness, which may not be
+consistent with the culture of the organization [8]. In this
+case, employees may not feel comfortable participating in a
+system, which encourages such behavior. On the other
+hand, members of organizational cultures that value public
+competition may be extremely motivated by features, such
+as leaderboards. Further, local culture may play a role in
+the design of such systems. For instance, a point-based
+currency on a Chinese online community reproduced norms
+of social exchange and sharing within that culture, such as
+guanxi and renping [11]. As a result, gamification features
+in such cultures would require incentives that included
+ideals of reciprocity, social obligation and face-saving.
+LIMITATIONS
+This study was conducted within a single global
+organization and so was necessarily influenced by the
+culture of that organization. Our results should be
+interpreted in that light. Future work in other organizations
+and settings is needed to better determine the
+generalizability of our findings. Given the high levels of
+interest in gamification and enterprise social computing, we
+think that this research will serve as a useful foundation for
+future work in this area. 

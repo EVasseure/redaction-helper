@@ -1,0 +1,387 @@
+Gamification:
+Designing for Motivation
+Sebastian Deterding
+Hamburg University | sebastian@codingconduct.cc
+designer and scholar Ian Bogost, most
+deployments of gamification represent
+“exploitationware,” in that they extract
+real value from users and employees in
+return for mere virtual tokens.
+As part of this charged debate, the
+following pieces by practitioners and
+researchers give insight into the current
+state of thinking about the potentials
+and limitations of gamification.
+Gamification is not
+a Dirty Word
+By Judd Antin
+Although gamification is far from
+the panacea it is made out to be, as
+a social psychologist and a designer
+of incentive systems, I view it as a
+positive trend.
+Gamification signals a shift away
+from the outdated view that pecuniary
+(e.g., money, gifts) and instrumental
+(e.g., information seeking)
+motivations are the only ones worth
+talking about. Not long ago, observThus,
+gamification has ignited the
+imagination of marketers, human
+resources professionals, and others
+interested in driving “engagement.”
+Implementations are blooming across
+a variety of sectors, including education
+(Khan Academy), tutorials
+(RibbonHero), health (HealthMonth),
+task management (EpicWin), sustainability
+(Recyclebank), crowdsourced science
+(FoldIt), and user-generated content
+for programmers (StackOverflow), to
+name but a few.
+At the same time, gamification has
+drawn the ire of game designers, who
+argue that the current stock implementation
+of gamification—adding points,
+badges, and leaderboards to mundane
+user activities—is “taking the thing
+that is least essential to games and
+representing it as the core of the experience,”
+as designer Margaret Robertson
+put it. She contends that the pleasures
+of games arise not from such system
+feedback, but from “meaningful choices”
+in the pursuance of “interestingly hard
+goals.” Furthermore, in the words of
+Games entice hundreds of millions of
+people across the globe to spend countless
+hours and dollars performing often
+menial tasks—certainly, there must be
+some way to use this power for other
+purposes? Already in the 1980s, prescient
+scholars like Thomas Malone followed
+this intuition and began looking
+into games as a source of “heuristics
+for enjoyable interfaces.” In the early
+2000s, the “serious games” movement
+followed, building full-fledged
+games to train, educate, and persuade.
+In parallel, the field of human-computer
+interaction began exploring the
+various facets of user experience, and
+design for pleasure, fun, and motivation
+became topics of research.
+Today the Web industry has put that
+same intuition into the public limelight
+again with a new buzzword: gamification.
+Instead of creating full games,
+gamification’s guiding idea is to use elements
+of game design in non-game contexts,
+products, and services to motivate
+desired behaviors.
+The sudden rise of gamification in the
+past few years can be traced back to the
+convergence of several enablers: cheap
+sensors that allow the tracking of everyday
+activity, a shift in Web analytics
+to individuals and their behaviors, and
+the current cultural momentum of video
+games. Foursquare and Nike+, widely
+publicized as case studies for successful
+“gamified” mass market products, acted
+as potent seed crystals.
+Social Mediator is a forum exploring the ways that HCI research and principles
+interact—or might interact—with practices in the social media world.
+Joe McCarthy, Editor
+FORUM Social Mediator
+interactions July + August 2012
+14
+Social Mediator FORUM
+ers were amazed by how much
+Internet users would do “for free.”
+Gamification, however, implicitly
+acknowledges that while online
+participants are usually unpaid,
+they rarely work for free. Instead,
+powerful social psychological processes
+such as self-efficacy, group
+identification, and social approval
+provide rewards. These rewards
+drive most of the long-term participation
+we see in today’s social Web,
+essentially through the power of
+good feelings.
+This is not a new idea.
+Achievement badges, for example,
+have a long and distinguished history.
+The Boy Scouts of America
+began handing out merit badges in
+1911. They understood the motivational
+power of goals, mastery
+seeking, reputation, and identity
+signaling with valued accomplishments.
+Wikipedia’s Barnstars
+(debuted in 2003) advertise and
+reward valued Wiki-work and
+effectively signal status because
+Wikipedians award them to one
+another within a meaningful
+social context. Despite the hype,
+the nuances and social meaning
+that have made merit badges and
+Barnstars effective are largely missing
+from today’s gamification trend.
+Most examples of gamification
+do a remarkably poor job of understanding
+where potential rewards
+come from. None adequately
+account for the ways in which individuals
+and contexts differ. The
+new dogma of gamification—actively
+preached by a handful of pundits
+and marketers—is in many ways as
+bad as the old, in that social status
+has replaced money as the universal
+motivator. However, people
+differ in the degree to which they
+seek and advertise status. For some,
+status signaling can be actively distasteful.
+Furthermore, the propriety
+of any given reward will differ by
+context; what is appropriate in the
+context of a sports-fan site, for
+example, may not be in the context
+of a health-discussion forum.
+Ultimately, gamification has
+a long way to go to achieve its
+potential. But gamification is not
+a dirty word. My hope is that serious
+research and innovation will
+help to produce systems that use
+social psychological processes well
+by taking into account contexts,
+meanings, and individual differences.
+Still, as a first step in creating
+online systems that are more
+engaging, supportive, and satisfying,
+the popularity of gamification
+signals an exciting trend.
+Judd Antin (@juddantin) is a social psychologist in
+the Internet Experiences research group at Yahoo!
+Research.
+Games as an Alternate
+Lens for Design
+By Elizabeth Lawley
+Games can be powerful experiences,
+leveraging both motivation
+and engagement. The recent trend
+toward “gamifying” applications,
+however, often reduces the complexity
+of a well-designed and
+balanced game to its simplest
+components, such as badges, levels,
+points, and leaderboards. The
+resulting implementations don’t
+just fail to engage players; they can
+actually damage existing interest
+or engagement with the service or
+product [1].
+It’s not that gamification can’t
+work. But to be successful, it must
+include game design, not just game
+components. Games are not a
+replacement for thoughtful experience
+and interaction design; they
+are an alternate lens for framing
+that process.
+When we set out to create Just
+Press Play, an achievement system
+for students in interactive
+games and media at the Rochester
+Institute of Technology (play.rit.
+edu), we began by thinking about
+the behaviors we wanted to reward
+and encourage, as well as the ways
+in which a game could allow our
+students to reflect on their accomplishments
+and strengthen their
+sense of competence and progress.
+We know, for instance, that student
+retention rates improve when
+students are making meaningful,
+positive connections with faculty
+and/or staff [2]. To encourage those
+connections, we created collectible
+cards for our faculty and staff,
+which students could receive in
+exchange for a playful or creative
+interaction. One faculty member
+asks students to bring her pictures
+of themselves eating pie; she is
+covering one wall of her office with
+these photos. Our digital audio
+instructor asks players to bring him
+a 10-second digital audio clip of a
+sound “from their world.”
+Other achievements are intended
+to encourage collaborative rather
+than individual work. Because
+we’ve had difficulty in getting more
+than 85 percent of our freshman to
+pass the introductory programming
+class, we created an achievement
+called Undying. If 90 percent of our
+freshmen passed the class, everyone
+playing the game would receive
+the achievement. In response,
+juniors and seniors spontaneously
+organized study sessions for the
+freshmen before the final exam.
+And while the students did unlock
+the achievement (91 percent of the
+freshmen passed the class), the real
+win for us was that the upper-class
+students enjoyed the tutoring so
+much they asked permission to run
+study sessions every quarter. The
+achievement served as a catalyst,
+but it was the activity itself, not
+the achievement, that was the real
+interactions
+reward for the students.
+July + August 2012
+16
+FORUM Social Mediator
+Done right, gamification can help
+enrich educational experiences in
+a way that students will recognize
+and respond to. Through our experience
+with Just Press Play, we hope
+to generate both a technical toolset
+and a set of best practices for implementing
+successful game-based
+experiences in educational contexts.
+Elizabeth Lawley (liz@lawley.net) is professor
+of interactive games and media and founder
+and director of the Lab for Social Computing at
+Rochester Institute of Technology.
+Gamification Means
+Amplifying Intrinsic Value
+By Rajat Paharia
+Over the past five years, we at
+Bunchball have worked with more
+than 100 companies to implement
+gamification programs designed to
+motivate and engage fans, customers,
+and employees. The way we
+approach each program is always
+the same, and starts with a thorough
+understanding of the business
+goals. What are the user activities
+that drive value, either directly or
+indirectly, for the business? Next,
+we develop a deep understanding
+of users and what motivates
+them to engage with the business.
+This is a key point, and one
+that often gets lost in the conversation
+about gamification: The
+entity being gamified needs to have
+some intrinsic value already—a
+reason for users to engage with
+it. If you have a news site that
+doesn’t have fresh news every
+day, adding gamification will not
+help, and you have bigger business
+problems. But if your offering
+has core intrinsic value that users
+desire, then weaving gamification
+into it can deepen their engagement
+and desire to participate.
+Whenever we engage with a new
+system, we all, either explicitly or
+implicitly, ask ourselves, “What’s
+in it for me?” Understanding
+why users engage with a business
+helps to answer that question
+and also points the way to
+rewards the user base will find
+meaningful and valuable.
+With this understanding of the
+primary stakeholders in mind, we
+then work to create an experience
+that engages users while accomplishing
+the business objectives,
+drawing from a palette of gamification
+tools that include goal setting,
+real-time feedback, transparency,
+mastery, competition, teams, and
+more. We craft a measurement plan
+with the business so we can accurately
+determine effectiveness and
+ROI, and a communication plan that
+details how the program should be
+rolled out to users. Post-launch, we
+work with them to analyze the data
+coming out of their program and to
+iterate and tweak it until it’s running
+optimally.
+Like anything else, gamification
+can be done well and can be done
+poorly. Companies that see the
+success of Foursquare or Farmville
+and just try to copy what they
+see, without understanding the
+stakeholders and their needs, are
+destined to fail—as are those who
+think they can replace meaningful
+rewards and incentives with empty
+points and badges, and manipulate
+users into doing things they don’t
+want to do.
+Gamification is really a motivational
+design problem, one that can
+be best solved with design thinking
+and design processes. Those companies
+that figure out how to effectively
+use gamification to amplify
+the intrinsic motivations of their
+employees, fans, and customers
+will have a lasting competitive edge
+in their markets.
+Rajat Paharia (@rajatrocks) is the founder and chief
+product officer of Bunchball, the first vendor of a
+gamification SaaS platform, and former co-director
+of the Software Experiences practice at IDEO.
+If there is one unifying theme of
+these pieces, it is to take gamification
+seriously: to thoroughly consider
+its potential, but more important,
+to move beyond the indiscriminate
+deployment of stock features toward
+a deep understanding of the needs of
+users, the value a system may provide
+as a result of connecting with
+them, and the complexity of interactions
+that give rise to valued experiences—or
+unintended consequences.
+These have always been core tenets
+of HCI. Hence, the field has much to
+offer those interested in gamification:
+a rich body of methods, a critical ethical
+awareness, as well as insight into
+the design and dynamics of collaborative,
+reputation, and incentive systems.
+Conversely, the current rise of gamification
+promises abundant real-world data
+on the uses and effects of such systems,
+and a stimulating infusion of frameworks,
+principles, and patterns from
+game design that may inform HCI. At
+its best, gamification means to identify
+and facilitate the motivations behind
+desired activities, using game design as
+one guiding lens among many. The projects,
+processes, and research collected
+in this article present a first glimpse of
+how this may look.

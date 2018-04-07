@@ -1,0 +1,586 @@
+Does Gamification Work? — A Literature Review of Empirical Studies on
+Gamification
+Juho Hamari
+School of Information Sciences,
+University of Tampere
+juho.hamari@uta.fi
+Jonna Koivisto
+School of Information Sciences,
+University of Tampere
+jonna.koivisto@uta.fi
+Harri Sarsa
+School of Science,
+Aalto University
+harri.sarsa@aalto.fi
+Abstract
+This paper reviews peer-reviewed empirical studies
+on gamification. We create a framework for examining
+the effects of gamification by drawing from the
+definitions of gamification and the discussion on
+motivational affordances. The literature review covers
+results, independent variables (examined motivational
+affordances), dependent variables (examined
+psychological/behavioral outcomes from gamification),
+the contexts of gamification, and types of studies
+performed on the gamified systems. The paper
+examines the state of current research on the topic and
+points out gaps in existing literature. The review
+indicates that gamification provides positive effects,
+however, the effects are greatly dependent on the
+context in which the gamification is being
+implemented, as well as on the users using it. The
+findings of the review provide insight for further
+studies as well as for the design of gamified systems.
+1. Introduction
+During the last couple of years, gamification
+[9][28][31] has been a trending topic and a subject to
+much hype as a means of supporting user engagement
+and enhancing positive patterns in service use, such as
+increasing user activity, social interaction, or quality
+and productivity of actions [25]. These desired use
+patterns are considered to emerge as a result of
+positive, intrinsically motivating [35], “gameful”
+experiences [31] brought about by game/motivational
+affordances implemented into a service.
+As a result, gamification is touted as a next
+generation method for marketing and customer
+engagement in popular discussion (e.g. [45]). For
+instance, Gartner [19] estimates that over 50% of
+organizations managing innovation processes will
+gamify aspects of their business by 2015. Furthermore,
+there is an increasing number of successful startups
+whose entire service is focused on adding a gamified
+layer to a core activity (e.g. Codecademy, a service that
+uses game-like elements to help teach users how to
+code), or who assist more traditional companies in
+gamifying their existing services (e.g. Badgeville).
+The popular interest in gamification is also
+reflected in an academic context: the number of papers
+published on gamification is growing. Figure 1 gives
+an overview of the increase of writings on the topic. It
+is especially noteworthy that the appearance of the
+term “gamification” in paper titles has been increasing
+even more rapidly than general search hits. This
+suggests that gamification is becoming a more popular
+subject for academic inquiry.
+Despite the large amount of hits on the topic, there
+is a dearth of coherent understanding on what kind of
+studies have been conducted under the term
+gamification, with which methods, what kinds of
+results they yield, and under which circumstances.
+Understanding whether gamification is effective is
+also a pertinent practical issue. A remarkably large
+number of firms now provide gamification services,
+and investments are being made into gamificationrelated
+efforts. As any other hot marketing topic,
+gamification is discussed in length, for example, in the
+2014 47th Hawaii International Conference on System Science
+978-1-4799-2504-9/14 $31.00 © 2014 IEEE
+DOI 10.1109/HICSS.2014.377
+3025
+industry chatter, largely based on anecdotal and
+intuitive presumptions ranging from extremely
+negative to extremely positive perceptions. Thus,
+empirical results on the effectiveness of gamification
+are in demand.
+This paper contributes to the understanding of
+gamification by reviewing the existing body of
+empirical research on the topic.
+2. Conceptualizing gamification
+Gamification has been defined as a process of
+enhancing services with (motivational) affordances in
+order to invoke gameful experiences and further
+behavioral outcomes [31][25]. In defining
+gamification, Huotari and Hamari [31] highlight the
+role of gamification in invoking the same
+psychological experiences as games (generally) do.
+Deterding et al. [9], on the other hand, emphasize that
+the affordances implemented in gamification have to
+be the same as the ones used in games, regardless of
+the outcomes (Figure 2). However, it is unclear which
+affordances are unique to games as well as which
+psychological outcomes can be strictly considered to
+stem from games. From the perspective of these
+definitions, there is room for a large variety of studies
+that could be framed as gamification. Therefore, one
+goal of this review is to explore what the actual
+empirical works on gamification have been studying as
+motivational affordances and psychological outcomes
+(as well as behavioral outcomes).
+Nevertheless, conceptualizing gamification [31] in
+the manner presented here allows us to connect the
+concept to the literature on motivational affordances in
+IS research (see [44]), and further, break down the
+studies reviewed herein (Figure 2).
+Figure 2. Gamification
+According to this conceptualization, gamification
+can be seen to have three main parts: 1) the
+implemented motivational affordances, 2) the resulting
+psychological outcomes, and 3) the further behavioral
+outcomes. Therefore, in this review we focus on
+examining 1) what motivational affordances the
+reviewed studies have implemented as dependent
+variables, 2) what psychological outcomes have been
+measured as possibly both independent and dependent
+variables, as well as 3) what behavioral outcomes have
+been measured as dependent variables. Furthermore,
+we will investigate what services have been gamified,
+and which methodologies have been used to study the
+effects.
+3. Literature review
+3.1. Step 1: General database search
+Searches were made in the following databases:
+Scopus, ScienceDirect, EBSCOHost, Web of Science,
+ACM Digital library, AISel, Google Scholar, and
+Proquest. The search terms gamification, gamif*,
+gameful and “motivational affordance” were used on
+all databases. The search terms were used for all fields
+(including title, abstract, keywords and full text), and
+all result types were included (Table 1). The middle
+column in Table 1 contains all results, including nonscientific
+writings such as magazine articles, trade
+publications etc. Thus, the figures in the column
+merely indicate the popularity of the subject.
+Table 1. Results from searched databases
+Library Total number
+of results
+Peerreviewed
+
+papers*
+EBSCOHost 399 17
+Proquest 3423 124
+Web of Science 56 56
+Scopus 330 293
+ScienceDirect 93 93
+Google Scholar 3480 N/A
+ACM Digital
+library
+239 196
+AISel 30 30
+* The true number of peer-reviewed papers in some
+of the databases is lower than reported, as the
+results contain in some cases, for example, nonpeer-reviewed
+short articles published in academic
+journals.
+3.2. Step 2: Focused searches
+After the initial database searches to determine
+which databases provide results, focused searches in
+the databases were conducted. Focused searches were
+performed with the following preliminary criterion:
+1) peer-reviewed full paper published in an
+international venue
+After narrowing down the results to peer-reviewed
+studies, the following criteria were implemented and
+the search further refined by going through the results:
+2) empirical study included
+3) research methods are explicated
+4) paper studies clearly identifiable motivational
+affordances
+3026
+5) the study was on gamification rather than on
+full games
+The literature search proceeded with a screening of
+the different databases in the following order (the
+number in brackets indicates how many non-identical,
+new papers were found from each library): 1) ACM
+Library (13), 2) Scopus (5), 3) ScienceDirect (2), 4)
+AISel (2), and 5) Google Scholar (1). The rest of the
+databases provided previously found results. Most
+papers were published in various computer
+science/HCI conference proceedings. A few studies
+were specifically on gamifying learning and were
+published in venues such as Computer in Human
+Behavior and Computers and Education. Also, a few
+papers had been published in management information
+systems venues, such as Electronic Commerce
+Research and Applications, European Conference on
+Information Systems, and Management Science.
+3.3. Step 3: Additional searches through
+references
+We further investigated the references of the
+initially found papers and the references made to those
+papers. With this method, 1 paper not covered in the
+databases, yet highly relevant for the literature review,
+was discovered.
+The papers in the literature search (Steps 3.2. and
+3.3.) that did not satisfy the set criteria mostly divided
+into the following four categories:
+1) conceptual papers
+2) engineering papers describing a system being
+engineered (without evaluation)
+3) gamification was mentioned in the text in
+passing and the actual substance was not
+gamification-related
+4) short papers/research-in-progress/extended
+abstracts
+After performing the three steps of the literature
+search, 24 peer-reviewed, empirical research papers on
+gamification were identified for the review. The full
+list of the chosen papers can be found in Appendix A.
+3.4. Step 4: Analysis
+In order to incorporate our discussion on the
+definition of gamification into our results, we combine
+the model of motivational affordances in ICT [44] with
+a modified version of the concept matrix presented by
+Webster and Watson [40] as a way of systematically
+collecting and analyzing the different motivational
+affordances and resulting outcomes.
+The papers were analyzed and categorized based on
+the provided framework on gamification. The results of
+the analysis were gathered into a table (Appendix A).
+4. Results
+Altogether 24 empirical studies were examined in
+the literature review. Though not always explicitly
+stated, the high-level research question shared between
+the papers was: Does gamification work? The
+gamification implementations varied between the
+studies in terms of what game-like motivational
+affordances had been implemented (section 4.1.).
+Moreover, the measurement of effectiveness also
+varied from motivation and engagement-related
+psychological outcomes to use behavior-related
+outcomes (section 4.2.), and the studies yielded both
+positive and negative results (section 4.3.) in a wide
+variety of contexts (section 4.4.). The results were
+achieved using both quantitative and qualitative
+methods (section 4.5.). For a complete list on the
+details of reviewed studies, see Appendix A, where
+studies are further grouped based on the motivational
+affordance [44] categories.
+4.1. Motivational affordances
+In accordance with Webster and Watson [40], we
+collected and combined the different motivational
+affordances found in the studies into 10 different
+motivational affordance categories, based on the
+terminology used in the reviewed papers.
+Table 2 indicates the relatively large variety of
+different elements tested in the empirical studies,
+although points, leaderboards, and badges [26] were
+clearly the most commonly found variants.
+Table 2. Tested motivational affordances
+Affordance Included in the study
+Points [4][13][15][16][23][27][34]
+[37][41]
+Leaderboards [4][10][13][15][16][21][23]
+[27][37][41]
+Achievements/
+Badges
+[2][8][10][17][20][22][25][27]
+[34]
+Levels [11][15][16][21][27][37]
+Story/Theme [12][18][21][23][33][36]
+Clear goals [11][27][33][32]
+Feedback [4][11][21][27][32][33]
+Rewards [12][18][33][36]
+Progress [14][18][27][33]
+Challenge [4][13][18][21][23][27][33]
+3027
+4.2. Psychological and behavioral outcomes
+Table 3 shows that most of the studies examined
+behavioral outcomes. These studies mainly used
+experiments or statistical analyses from existing
+services or implementations designed by the
+researchers. Furthermore, use intentions were
+investigated through survey methods.
+Studies investigating psychological outcomes
+mostly focused on aspects such as motivation, attitude
+and enjoyment. These studies used either evaluative
+interviews or questionnaires. Currently, only one study
+[27] has used validated psychometric measurements.
+Table 3. Studied outcomes
+Dependent
+variable
+Paper
+Psychological
+outcomes
+[4][8][10][11][12][17][18][21]
+[27][33][34][41]
+Behavioral
+outcomes
+[2][4][8][10][11][13][14][15]
+[16][17][18][20][21][22][23]
+[25][27][32][33][36][37]
+4.3. Reported results
+According to a majority of the reviewed studies,
+gamification does produce positive effects and
+benefits. Table 4 displays the reported findings of the
+quantitative studies. Most of the reviewed papers
+reported positive results for some of the motivational
+affordances of the gamification implementations
+studied. Only two studies found all of the tests positive.
+Many of the quantitative papers were descriptive in
+nature. Naturally, descriptive papers are not inferential
+and, therefore, not able to infer about the effect of
+gamification per se. Thus, even though the
+implementations might have been received positively
+by the users, no actual effects are reported.
+Regarding the partially positive results, studies did
+discuss why some of the expected results could not be
+established. For instance, the largest studies in the
+review ([25][32]) reported that gamification might not
+be effective in a utilitarian service setting, but instead
+engagement by gamification can depend on several
+factors, such as the motivations of users (see [29]) or
+the nature of the gamified system.
+Complementary to the above findings, some studies
+showed that the results of gamification may not be
+long-term [25][15][16], but instead could be caused
+due to a novelty effect. However, it also seems that
+removing gamification might have detrimental effects
+[37] to those users who are still engaged by
+gamification, possibly due to loss aversion from losing
+e.g. earned badges and points [24].
+The findings of the fully qualitative studies as well
+as the qualitative results of the mixed methods papers
+consisted of both positive and negative perceptions
+regarding the studied gamification implementations.
+Positive experiences from gamification (e.g. on
+engagement and enjoyment [34][11][33]) were
+reported in all of the studies. At the same time,
+however, the same aspects were most often disliked by
+some respondents in the study.
+Table 4. Effects reported in quantitative studies
+Results Paper
+All tests positive [13][37]
+Part of the tests
+positive
+[8][10][12][14][15][16][18]
+[22][23][25][27][32][33]
+All tests not
+significant
+-
+Only descriptive
+statistics
+[2][4][17][20][21][36][41]
+4.4. Contexts of gamification
+Context of gamification refers to the core service or
+an activity being gamified. As shown in Table 5, the
+range of contexts where the studies were performed
+was wide. Gamification of education or learning was
+the most common context for the implementations.
+Most of the papers gamifying work were conducted in
+crowdsourcing systems.
+All of the studies in education/learning contexts
+considered the learning outcomes of gamification as
+mostly positive, for example, in terms of increased
+motivation and engagement in the learning tasks as
+well as enjoyment over them. However, at the same
+time, the studies pointed to negative outcomes which
+need to be paid attention to, such as the effects of
+increased competition [22], task evaluation difficulties
+[10], and design features [11][10].
+Three out of four studies which studied intraorganizational
+systems, investigated the gamification
+of the same IBM’s Beehive system at different stages
+[15][16][37]. The main results from these studies
+indicate that gamification has a positive effect on some
+users for a short time [16].
+Surprisingly, none of the studies were explicitly
+conducted in a marketing context (perhaps excluding
+[25][12]), although gamification has been especially
+touted as a potential marketing strategy. However, if
+we look at the dependent variables across the studies,
+they largely pertain to the increase in and quality of the
+service/system use, which are considered as highly
+important marketing metrics. Thus, the results of the
+studies suggest implications for managerial and
+business purposes regarding effects on engagement and
+3028
+use activity. However, no paper seemed to infer about
+the relationship between gamification and purchase
+behavior.
+Table 5. Contexts of the studied implementations
+Context Paper
+Commerce [25]
+Education/learning [4][8][10][11][17][22][23]
+[33][36]
+Health/exercise [27]
+Intra-organizational
+systems
+[14][15][16][37]
+Sharing [34]
+Sustainable
+consumption
+[21]
+Work [2][13][18][20]
+Innovation/ideation [32][41]
+Data gathering [12]
+4.5. Types of studies
+Table 6 reports the types of studies based on the
+methodology used in the study. As indicated in Table
+6, most of the studies were quantitative. Fully
+qualitative studies were in the minority. The review
+indicates that the research on gamification has
+currently focused on using usage data and inferring
+about user behavior directly.
+Table 6. Types of studies
+Method Paper
+Qualitative* [11][34]
+Quantitative** [2][4][8][10][12][13][14][17]
+[18][20][22][25][27][32][36]
+[37][41]
+Mixed
+methods***
+[15][16][21][23][33]
+* including interviews and other qualitative
+observations
+** including experiments, log data analyses and
+quantitative questionnaires.
+*** usually include a larger quantitative part and,
+for example, user interviews or forum discussion
+analyses
+5. Discussion
+In this paper, the current efforts in empirical study
+of gamification have been broken down into
+components in order to structurally analyze the results
+and state of the research. A conceptual framework for
+gamification based upon the 1) motivational
+affordances, 2) psychological outcomes, and 3) further
+behavioral outcomes was provided and the studies
+categorized on the basis of the framework.
+Answering the question posed in title of the paper,
+Does gamification work?, the literature review
+suggests that, indeed, gamification does work, but
+some caveats exist. The majority of the reviewed
+studies did yield positive effects/results from
+gamification. However, as can be seen from Table 4,
+most of the quantitative studies concluded positive
+effects to exist only in part of the considered
+relationships between the gamification elements and
+studied outcomes. Further, the studies that investigated
+gamification qualitatively revealed that gamification as
+a phenomenon is more manifold than the studies often
+assumed. These observations suggest that some
+underlying confounding factors exist. Most
+prominently, the studies bring forth two main aspects:
+1) the role of the context being gamified, and the 2)
+qualities of the users. We discuss these issues in more
+detail in the sub-section on further research avenues
+(section 5.2.).
+The literature review also revealed that more
+rigorous methodologies ought to be used in further
+research on gamification. Methodological limitations
+and suggestions for avoiding the pitfalls of current
+studies in future research are presented (section 5.1.).
+The limitations of this review are also considered in
+section 5.3.
+5.1. Methodological limitations in the reviewed
+studies
+Several shortcomings could be identified during the
+literature review: 1) the sample sizes were small in
+some studies (around N=20), 2) proper, validated
+psychometric measurements were not used (when
+surveying experiences and attitudes), 3) some
+experiments lacked control groups and relied solely on
+user evaluation, 4) controls between implemented
+motivational affordances were often lacking and
+multiple affordances were investigated as a whole (i.e.
+no effects from individual motivational affordances
+could be established), 5) many presented only
+descriptive statistics although they could have easily
+also inferred about the relationship between constructs,
+6) experiment timeframes were in most cases very
+short (novelty might have skewed the test subjects'
+experiences in a significant way), and 7) there was a
+lack of clarity in reporting the results. 8) No single
+study used multi-level measurement models including
+all motivational affordances, psychological outcomes,
+and behavioral outcomes. Further studies should
+especially try to avoid these pitfalls in order to refine
+the research on gamification.
+3029
+5.2. Avenues for future research
+The present studies on gamification and
+motivational affordances suggest that the context of the
+service might be an essential antecedent for engaging
+gamification. In some of the reviewed studies, similar
+considerations were expressed (e.g. [37][34][25]). For
+example, Hamari [25] suggested that services oriented
+towards strictly rational behavior, such as e-commerce
+sites, might prove to be challenging systems to be
+gamified as the users could be geared towards
+optimizing economic exchanges.
+Triangulating from self-determination theory [7] as
+well as from the traditional definitions of games [3],
+both suggest that outside pressures (such as extrinsic
+rewards) undermine intrinsic motivations (see e.g. [6])
+and hence would in essence undermine gamification
+which is an attempt to afford for the emergence of
+intrinsic motivations.
+The understanding of the contextual factors would
+benefit from considering the following theoretical
+perspectives: (1) the social environment: theory of
+planned behavior [1] states that the voluntariness of
+carrying out a task is one of the main antecedents for
+attitude formation and behavior; (2) the nature of the
+system: is the system in question utilitarian or hedonic
+in nature [5][39]; and (3) the involvement of the user:
+is it cognitive or affective in nature [43].
+The impact of the context of the gamified system
+could be examined by experimental conditions. By
+implementing certain motivational affordances and
+holding them constant while varying the nature of the
+underlying service could give insight into how the
+context affects the outcomes of the gamification.
+Furthermore, in many of the reviewed papers, user
+qualities were believed to have an effect on attitudes
+towards gamification [25][13][27][34], thus explaining
+why in certain environment or only with certain users,
+gamification had significant effects. As previous works
+on player motivations suggest, people in fact interact
+with game-like systems in different manners, and for
+different reasons [29][42][38]. Thus, the experiences
+created by the gamifying motivational affordances are
+also likely to vary [31].
+Eickhoff et al. [13] mention the emergence of
+distinct "worker types" in their service, which gamified
+crowdsourced relevance assessments. In addition, the
+series of studies done on gamifying IBM's Beehive
+social networking service [15][16][37] also note that
+the users fell into distinct behavioral patterns: for
+example, some users wanted to be at the very top of the
+leaderboard, while for others it was enough to simply
+appear on the leaderboard, regardless of ranking.
+Hamari [25] suggests that sporadic nature of usage
+might not be compatible with persistent gameful
+affordances as the users might not spend enough time
+within the service in order to become interested in
+them.
+Furthermore, the freeform feedback collected from
+the participants in several of the studies contained
+isolated comments where certain motivational
+affordances (which otherwise received positive
+comments) were felt as negative (such as ones
+encouraging competition), lending credence to the idea
+that different player types experience the same
+affordances differently [31].
+5.3. Limitations of this literature review
+Gamification as an academic topic of study is
+relatively young, and there are few well-established
+theoretical frameworks or unified discourses. In this
+literature review, only studies explicitly concerned
+with gamification and motivational affordances were
+included. Thus, the paper is limited with regards to
+reporting research that has been done on other subjects
+conceptually or theoretically close to gamification (e.g.
+studies on intrinsic motivations) or similar with regards
+to measured outcomes. Also, there are potentially
+studies that investigate similar phenomena, but discuss
+it with different terms, and thus, were difficult to find.
+Here we relied on the selection criteria where the
+empirical papers were clearly studying the effects of
+implementation of game-like mechanics. Therefore, the
+present paper provides a close look on the research
+being done on the topic of gamification particularly.
+Since the motivational affordances,
+behavioral/psychological outcomes as well as the
+methodologies varied greatly between the studies,
+formal meta-analysis [30] could not be conducted.
+Furthermore, many of the studies used qualitative
+methods. As the research on gamification progresses,
+care should be taken to ensure that future results are
+more comparable. This can partly be ensured if future
+studies will build upon the previously well executed
+inferential studies with either proper experiments or
+proper psychometric measurements and adequate
+samples, such as [25][15][27][32][8]. 
